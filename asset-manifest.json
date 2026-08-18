@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/model-simulator/static/css/main.0a77b13e.css",
+    "main.js": "/model-simulator/static/js/main.2559a871.js",
+    "index.html": "/model-simulator/index.html",
+    "main.0a77b13e.css.map": "/model-simulator/static/css/main.0a77b13e.css.map",
+    "main.2559a871.js.map": "/model-simulator/static/js/main.2559a871.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a77b13e.css",
+    "static/js/main.2559a871.js"
+  ]
+}
