@@ -2,7 +2,7 @@
   "name": "simulation_model",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marianayab.github.io/model-simulator/",
+  "homepage": "https://marianayab.github.io/model-simulator",
   "engines": {
     "node": ">=18.18.0",
     "npm": ">=9.0.0"
